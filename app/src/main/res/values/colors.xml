@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="colorPrimary">#098A7E</color>
+    <color name="colorPrimaryDark">#097168</color>
+    <color name="colorPrimaryLight">#05CA8C </color>
+    <color name="colorAccent">#E91E63</color>
+    <color name="color1">#097C71</color>
+    <color name="color2">#02B6A6</color>
+    <color name="bg_color">#E1F6F4</color>
+    <color name="bg_color2">#95D5CE</color>
+    <color name="WhiteText">#ffffff</color>
+
+
+    <color name="white">#fff</color>
+    <color name="lightGrey">#EDEDED</color>
+    <color name="whatsAppColor">#0b6156</color>
+    <color name="red">#9F0B0B</color>
+    <color name="status_background">#009688</color>
+    <color name="chat_background">#8BC34A</color>
+    <color name="fb_color">#3c5793</color>
+    <color name="black">#040303</color>
+    <color name="lightgreen">#e5ffcc</color>
+    <color name="settingsIconColor">#0E8374</color>
+    <color name="grayBackground">#BCBCBC</color>
+    <color name="chatbackground">#AAAAAA</color>
+
+</resources>

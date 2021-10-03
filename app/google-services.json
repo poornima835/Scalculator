@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "225551574165",
+    "firebase_url": "https://safechat-50d3e-default-rtdb.firebaseio.com",
+    "project_id": "safechat-50d3e",
+    "storage_bucket": "safechat-50d3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225551574165:android:f7e9ad3aa136165dada79c",
+        "android_client_info": {
+          "package_name": "com.example.scalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225551574165-mff3cedorp0ni8vnoua4imsr190d7fns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAic8wL9Z5zibZsionuunAmOHg7Cjyu0QQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225551574165-mff3cedorp0ni8vnoua4imsr190d7fns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
